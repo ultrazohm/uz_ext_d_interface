@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=TopSheet.SchDoc
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_Power_Supply|SchDesignator=U_Power_Supply|FileName=Power_Supply.SchDoc|SymbolType=Normal|RawFileName=Power_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
