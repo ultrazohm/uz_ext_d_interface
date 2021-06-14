@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -176,23 +177,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JEEZKQZA
 
 [Document9]
-DocumentPath=SingleToDifferential.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=DifferentialToSingle.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FZUWBNWI
 
-[Document11]
+[Document10]
 DocumentPath=Logic_Gatter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
