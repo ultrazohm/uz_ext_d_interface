@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WWAXRQCP
 
 [Document3]
-DocumentPath=..\..\ELSYS_Online_PCB-Design\UZ_D_GaN_Inverter\Designs\AMPSEAL-Connector.SchDoc
+DocumentPath=AMPSEAL-Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
