@@ -326,9 +326,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGEJOTRH
 
+[Document18]
+DocumentPath=Outputs.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Design Rule Check - Interface_Card_for_GaN_Inverter.html
 DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Design Rule Check - Interface_Card_for_GaN_Inverter_Michi.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\NC Drill\Interface_Card_for_GaN_Inverter_Michi.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Gerber\Interface_Card_for_GaN_Inverter_Michi.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\NC Drill\Interface_Card_for_GaN_Inverter_Michi.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Gerber\Interface_Card_for_GaN_Inverter_Michi.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Gerber\Interface_Card_for_GaN_Inverter_Michi.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\NC Drill\Interface_Card_for_GaN_Inverter_Michi.TXT
+DItemRevisionGUID=
+
+[Parameter1]
+Name=ProjectRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
