@@ -343,6 +343,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=D3DFE1BC-DE56-4319-8281-02DAE3B8FAA6
+Description=Variant A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=10
+Variation1=Designator=R28|UniqueId=\FDUGWFJA\NJQPYLXY|Kind=1|AlternatePart= 
+Variation2=Designator=R25|UniqueId=\FDUGWFJA\RYMCKYIW|Kind=1|AlternatePart= 
+Variation3=Designator=R24|UniqueId=\FDUGWFJA\YCXJTPAX|Kind=1|AlternatePart= 
+Variation4=Designator=R22|UniqueId=\FDUGWFJA\PFCMSYTJ|Kind=1|AlternatePart= 
+Variation5=Designator=R10|UniqueId=\BFTBDMZI\WIZREFHZ|Kind=1|AlternatePart= 
+Variation6=Designator=D3|UniqueId=\BFTBDMZI\YOKIUHIB|Kind=1|AlternatePart= 
+Variation7=Designator=R14|UniqueId=\BFTBDMZI\COGWERTX|Kind=1|AlternatePart= 
+Variation8=Designator=R16|UniqueId=\BFTBDMZI\UAVOJIYD|Kind=1|AlternatePart= 
+Variation9=Designator=D6|UniqueId=\BFTBDMZI\CXGALCDN|Kind=1|AlternatePart= 
+Variation10=Designator=C23|UniqueId=\BFTBDMZI\GIDCTDFC|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UltraZohm_Interfaceplatine\Design Rule Check - Interface_Card_for_GaN_Inverter.html
 DItemRevisionGUID=

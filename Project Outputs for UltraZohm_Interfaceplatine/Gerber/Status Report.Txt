@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [UltraZohm_Interfaceplatine.PrjPcb]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GTO]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GTS]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GTL]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.G1]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.G2]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GBL]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GBS]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GBO]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM1]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM2]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM3]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM4]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM5]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM6]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM7]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM8]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM9]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM10]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM11]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM12]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM13]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM14]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM15]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GM16]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.GKO]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.RUL]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.EXTREP]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 17:07:15 On 16.09.2021

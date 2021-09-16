@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Interface_Card_for_GaN_Inverter_Michi.PcbDoc   16.09.2021  17:11:33
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : Interface_Card_for_GaN_Inverter_Michi.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.15mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T2      8mil (0.201mm)                                            Round             209       PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T4      73mil (1.849mm)                                           Round             35        PTH        0.00inch (0.00mm)
+T5      50mil (1.27mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+T6      79mil (1.999mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              262
+
+Total Processing Time (hh:mm:ss) : 00:00:01
