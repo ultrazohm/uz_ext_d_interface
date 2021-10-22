@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UltraZohm_Interfaceplatine.PrjPcb]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.TXT]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.LDP]
+   Generated File[Interface_Card_for_GaN_Inverter_Michi.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:52:15 On 21.10.2021

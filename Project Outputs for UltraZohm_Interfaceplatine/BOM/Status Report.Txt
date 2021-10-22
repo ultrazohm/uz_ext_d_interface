@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:27:17 On 17.08.2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [UltraZohm_Interfaceplatine.PrjPcb]
+   Generated File[Bill of Materials-UltraZohm_Interfaceplatine.xls]
+   Generated File[Bill of Materials-UltraZohm_Interfaceplatine.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:27:43 On 17.08.2021
