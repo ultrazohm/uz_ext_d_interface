@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Interface_Card_for_GaN_Inverter.GBR   04.03.2022  14:26:10
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Mask                                
+.GTL                Top Copper                              
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.GBL                Bottom Copper                           
+.GBS                Bottom Mask                             
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top Assembly                            
+.GM3                Mechanical 3                            
+.GM4                Top 3D Body                             
+.GM5                Mechanical 5                            
+.GM6                Bottom Assembly                         
+.GM7                Top Courtyard                           
+.GM8                Bottom Courtyard                        
+.GM9                Top Designator                          
+.GM10               Bottom Designator                       
+.GM11               Top Component Center                    
+.GM12               Bottom Component Center                 
+.GM13               Top Value                               
+.GM14               Bottom Value                            
+.GM15               Mechanical 15                           
+.GM16               Bottom 3D Body                          
+------------------------------------------------------------------------------------------

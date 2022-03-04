@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\10_Altium\uz_ext_d_interface\Interface_Card_for_GaN_Inverter.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
