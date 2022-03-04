@@ -1,0 +1,472 @@
+*************************************************************
+FileName = Interface_Card_for_GaN_Inverter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom 3D Body
+      File : Interface_Card_for_GaN_Inverter.GM16
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Interface_Card_for_GaN_Inverter.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Value
+      File : Interface_Card_for_GaN_Inverter.GM14
+
+    Adding Layer      : Bottom Value
+
+
+Used DCodes :
+    D13
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Value
+      File : Interface_Card_for_GaN_Inverter.GM13
+
+    Adding Layer      : Top Value
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : Interface_Card_for_GaN_Inverter.GM12
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D16
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Interface_Card_for_GaN_Inverter.GM11
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D16
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : Interface_Card_for_GaN_Inverter.GM10
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Interface_Card_for_GaN_Inverter.GM8
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Interface_Card_for_GaN_Inverter.GM7
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D16
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Interface_Card_for_GaN_Inverter.GM9
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Interface_Card_for_GaN_Inverter.GM6
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D16
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : Interface_Card_for_GaN_Inverter.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D16
+    D17
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Interface_Card_for_GaN_Inverter.GM4
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Interface_Card_for_GaN_Inverter.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Interface_Card_for_GaN_Inverter.GM2
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D16
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Interface_Card_for_GaN_Inverter.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+    D17
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Interface_Card_for_GaN_Inverter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D16
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Interface_Card_for_GaN_Inverter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D22
+    D24
+    D27
+    D32
+    D35
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : Interface_Card_for_GaN_Inverter.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D47
+    D49
+    D52
+    D57
+    D60
+    D68
+    D69
+    D70
+    D71
+    D72
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : Interface_Card_for_GaN_Inverter.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Interface_Card_for_GaN_Inverter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Interface_Card_for_GaN_Inverter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Copper
+      File : Interface_Card_for_GaN_Inverter.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+    D19
+    D22
+    D24
+    D27
+    D32
+    D35
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Top Copper
+      File : Interface_Card_for_GaN_Inverter.GTL
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : Interface_Card_for_GaN_Inverter.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : Interface_Card_for_GaN_Inverter.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D76
+*************************************************************
+
